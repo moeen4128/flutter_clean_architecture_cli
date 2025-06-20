@@ -1,0 +1,17 @@
+name: flutter_clean_architecture_cli
+description: A Dart CLI to generate clean architecture folder structure in Flutter projects.
+version: 1.0.0
+repository: https://github.com/moeen4128/flutter_clean_architecture_cli
+
+environment:
+  sdk: ^3.7.2
+
+executables:
+  flutter_clean_architecture_cli: clean_architecture_cli
+
+dependencies:
+  path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
