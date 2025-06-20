@@ -7,7 +7,7 @@ environment:
   sdk: ^3.7.2
 
 executables:
-  flutter_clean_architecture_cli: clean_architecture_cli
+  flutter_clean_architecture_cli: flutter_clean_architecture_cli
 
 dependencies:
   path: ^1.8.0
